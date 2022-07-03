@@ -10,10 +10,7 @@
 If you use our code or features please consider citing our work.
 ```bibtex
 @misc{MuhammadArsalanLatifknowgraphiitk,
-    title={KnowGraph@IITK at SemEval-2021 Task 11: Building KnowledgeGraph for NLP Research},
+    title={Screening Task},
     author={Muhammad Arsalan Latif},
     year={2022},
-    eprint={2104.01619},
-    archivePrefix={arXiv},
-    primaryClass={cs.CL}
 }
