@@ -1,7 +1,3 @@
-# KnowGraph@IITK at SemEval-2021 Task 11: Building KnowledgeGraph for NLP Research
-This repository contains PyTorch code of system description model for SemEval 2021 Task 11.
-
-
 
 ## Dataset
 1. [Trial dataset](https://github.com/ncg-task/trial-data)
@@ -13,7 +9,7 @@ This repository contains PyTorch code of system description model for SemEval 20
 # Citation
 If you use our code or features please consider citing our work.
 ```bibtex
-@misc{shailabh2021knowgraphiitk,
+@misc{MuhammadArsalanLatifknowgraphiitk,
     title={KnowGraph@IITK at SemEval-2021 Task 11: Building KnowledgeGraph for NLP Research},
     author={Muhammad Arsalan Latif},
     year={2022},
